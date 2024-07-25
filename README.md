@@ -60,8 +60,8 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/rabnail/volume-bot_raydium.git
-cd volume-bot_raydium
+[git clone https://github.com/rabnail/volume-bot_raydium.git](https://github.com/libraiger/raydiumVolumeBot.git)
+
 ```
 2. Install dependencies
 ```
@@ -80,10 +80,8 @@ npm start
 
 ## Author
 
-Discord: rabnail_15 in discord
+Twitter: [@Rabnail](https://x.com/libraiger)
 
-Twitter: [@Rabnail](https://twitter.com/Rabnail_SOL)
-
-Telegram: [@Rabnail](https://t.me/rab_nail)
+Telegram: [@Rabnail](https://t.me/lovely_libra777)
 
 You can always find me here, for help, or for other projects.
